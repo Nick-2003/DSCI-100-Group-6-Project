@@ -15,3 +15,4 @@ Dataset: Pollution
     Iws: Cumulated wind speed (m/s)
     Is: Cumulated hours of snow
     Ir: Cumulated hours of rain
+    HUMID: Relative humidity (%) (Calculated from DEWP and TEMP)
